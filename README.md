@@ -23,5 +23,4 @@
 ---
 
 ## 📊 GitHub Stats  
-![Mariana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianantavares&show_icons=true&theme=rose_pine&border_radius=15)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianantavares&layout=compact&theme=rose_pine&border_radius=15)  
+![Mariana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianantavares&show_icons=true&theme=rose_pine&border_radius=15)  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianantavares&layout=compact&theme=rose_pine&border_radius=15)  
